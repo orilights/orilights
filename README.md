@@ -18,4 +18,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- waka-box start -->
+#### <a href="https://gist.github.com/92c8d5b388768c10efcba86e82b7c4fb" target="_blank">📊 每周工作报告</a>
+```text
+TypeScript               🕓 13h41m █████▏░░░░░░░ 39.5%
+Vue.js                   🕓 7h4m   ██▋░░░░░░░░░░ 20.4%
+Other                    🕓 3h31m  █▎░░░░░░░░░░░ 10.2%
+Bash                     🕓 2h54m  █░░░░░░░░░░░░  8.4%
+Python                   🕓 1h35m  ▌░░░░░░░░░░░░  4.6%
+```
+<!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
