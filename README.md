@@ -7,11 +7,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/92c8d5b388768c10efcba86e82b7c4fb" target="_blank">📊 每周工作报告</a>
 ```text
-Vue        🕓 26h   ███████████████▊░░░░░░░░░░░░ 56.4%
-TypeScript 🕓 9h59m ██████░░░░░░░░░░░░░░░░░░░░░░ 21.7%
-Markdown   🕓 2h51m █▋░░░░░░░░░░░░░░░░░░░░░░░░░░  6.2%
-Python     🕓 1h33m ▉░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.4%
-JavaScript 🕓 1h25m ▊░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.1%
+Vue        🕓 21h21m ███████████████▏░░░░░░░░░░░ 56.1%
+TypeScript 🕓 7h6m   █████░░░░░░░░░░░░░░░░░░░░░░ 18.7%
+Markdown   🕓 2h34m  █▊░░░░░░░░░░░░░░░░░░░░░░░░░  6.8%
+Python     🕓 1h33m  █░░░░░░░░░░░░░░░░░░░░░░░░░░  4.1%
+JSON       🕓 1h30m  █░░░░░░░░░░░░░░░░░░░░░░░░░░  4.0%
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
