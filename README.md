@@ -7,11 +7,11 @@
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/92c8d5b388768c10efcba86e82b7c4fb" target="_blank">📊 每周工作报告</a>
 ```text
-Text       🕓 3h29m #########------------------- 31.8%
-TypeScript 🕓 3h29m #########------------------- 31.8%
-Other      🕓 1h11m ###------------------------- 10.9%
-Vue        🕓 53m   ##--------------------------  8.2%
-Markdown   🕓 32m   #---------------------------  5.0%
+TypeScript      🕓 4h6m  #######---------------- 32.1%
+Text            🕓 3h29m ######----------------- 27.2%
+Vue             🕓 2h15m ####------------------- 17.7%
+Other           🕓 1h7m  ##---------------------  8.8%
+Markdown        🕓 37m   #----------------------  4.8%
 ```
 <!-- Powered by https://github.com/journey-ad/waka-box-go . -->
 <!-- waka-box end -->
